@@ -7,3 +7,6 @@
  Для запуска потребуется отключить UAC можно последовать по инструкции https://remontka.pro/uac-disable-windows-10/ если будет ошибка: "не получена ссылка" то значит UAC не выключен. 
  Советую отключить через реестр, как обходной вариант можно создать подпись своего доверенного центра и корневой сертификат, например по инструкции https://habr.com/ru/companies/tuthost/articles/152867/ и при сборке его выбрать как сертификат приложения, тогда UAC
  не требуется отключать. 
+![IMG_20241205_192308](https://github.com/user-attachments/assets/3c146342-e356-4f42-a17e-04b5a47d6879)
+![IMG_20241205_192703](https://github.com/user-attachments/assets/6362e271-8eb7-49a5-afc4-5a8b5db82ecd)
+![IMG_20241205_192713](https://github.com/user-attachments/assets/89790c24-d2c8-485f-bfb9-79172d77517f)
